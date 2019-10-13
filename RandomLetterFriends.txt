@@ -1,0 +1,15 @@
+7
+C|n
+B|y|hogwarts
+A|y|hogwarts
+D|y|rutgers
+E|y|rutgers
+F|y|rutgers
+G|y|hogwarts
+A|B
+B|C
+C|E
+C|D
+E|F
+E|D
+A|C
